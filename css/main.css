@@ -14,6 +14,9 @@ div {
   margin: 0;
 }
 
+.first {
+  padding: .5em 0 0;
+}
 .img {
   float: left;
   width: 40px;
@@ -24,6 +27,14 @@ h1 {
   color: #fff;
   font-size: 2rem;
   margin: .3rem;
+}
+
+body {
+  margin: 0;
+}
+.imgg {
+  float: right;
+  width: 40px;
 }
 
 .list {
@@ -44,4 +55,8 @@ a {
   width: 33.3%;
   background-color: #d05c2e;
   border: 1px solid #a63f38;
+}
+
+.col:hover {
+  background-color: #a63f38;
 }
