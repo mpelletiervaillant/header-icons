@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
-  line-height:1.5;
-  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  font-family: Merriweather, serif;
 }
 
 *, *::before, *::after {
@@ -17,6 +17,7 @@ div {
 .first {
   padding: .5em 0 0;
 }
+
 .img {
   float: left;
   width: 40px;
@@ -32,6 +33,7 @@ h1 {
 body {
   margin: 0;
 }
+
 .imgg {
   float: right;
   width: 40px;
